@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Banane",
+    "category": "Food",
+    "detail": "Eine leckere Banane"
+  },
+  {
+    "name": "Leberwurst",
+    "category": "Food",
+    "detail": "Einfach unwiderstehlich"
+  },
+  {
+    "name": "iPhone",
+    "category": "Technology",
+    "detail": "Top Produkt"
+  }
+]
